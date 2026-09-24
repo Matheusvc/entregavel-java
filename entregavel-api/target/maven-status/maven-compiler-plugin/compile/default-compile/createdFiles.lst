@@ -1,0 +1,5 @@
+br\com\techx\aula2\Aula2Application.class
+br\com\techx\aula2\model\Aluno.class
+br\com\techx\aula2\service\AlunoService.class
+br\com\techx\aula2\controller\AlunoController.class
+br\com\techx\aula2\repository\AlunoRepository.class
